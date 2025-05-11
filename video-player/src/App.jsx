@@ -306,7 +306,7 @@ export const getInitialVideoData = () => [
   {
     id: 1,
     title: "Chapter 1",
-    src: "/public/videos/1.mp3",
+    src: "/videos/1.mp3",
     duration: 0, // will be set when loaded
     watched: false,
     watchedPercentage: 0,
@@ -316,7 +316,7 @@ export const getInitialVideoData = () => [
   {
     id: 2,
     title: "Chapter 2",
-    src: "/public/videos/2.mp3",
+    src: "/videos/2.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -325,7 +325,7 @@ export const getInitialVideoData = () => [
   {
     id: 3,
     title: "Chapter 3",
-    src: "/public/videos/3.mp3",
+    src: "/videos/3.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -334,7 +334,7 @@ export const getInitialVideoData = () => [
   {
     id: 4,
     title: "Chapter 4",
-    src: "/public/videos/4.mp3",
+    src: "/videos/4.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -343,7 +343,7 @@ export const getInitialVideoData = () => [
   {
     id: 5,
     title: "Chapter 5",
-    src: "/public/videos/5.mp3",
+    src: "/videos/5.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -352,7 +352,7 @@ export const getInitialVideoData = () => [
   {
     id: 6,
     title: "Chapter 6",
-    src: "/public/videos/6.mp3",
+    src: "/videos/6.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -361,7 +361,7 @@ export const getInitialVideoData = () => [
   {
     id: 7,
     title: "Chapter 7",
-    src: "/public/videos/7.mp3",
+    src: "/videos/7.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -370,7 +370,7 @@ export const getInitialVideoData = () => [
   {
     id: 8,
     title: "Chapter 8",
-    src: "/public/videos/8.mp3",
+    src: "/videos/8.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -379,7 +379,7 @@ export const getInitialVideoData = () => [
   {
     id: 9,
     title: "Chapter 9",
-    src: "/public/videos/9.mp3",
+    src: "/videos/9.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -388,7 +388,7 @@ export const getInitialVideoData = () => [
   {
     id: 10,
     title: "Chapter 10",
-    src: "/public/videos/10.mp3",
+    src: "/videos/10.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -397,7 +397,7 @@ export const getInitialVideoData = () => [
   {
     id: 11,
     title: "Chapter 2",
-    src: "/public/videos/11.mp3",
+    src: "/videos/11.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
@@ -406,7 +406,7 @@ export const getInitialVideoData = () => [
   {
     id: 12,
     title: "Chapter 12",
-    src: "/public/videos/12.mp3",
+    src: "/videos/12.mp3",
     duration: 0,
     watched: false,
     watchedPercentage: 0,
