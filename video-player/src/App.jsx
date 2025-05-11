@@ -396,7 +396,7 @@ export const getInitialVideoData = () => [
   },
   {
     id: 11,
-    title: "Chapter 2",
+    title: "Chapter 11",
     src: "/videos/11.mp3",
     duration: 0,
     watched: false,
